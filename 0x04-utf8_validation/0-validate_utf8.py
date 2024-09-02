@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 ):
+=======
+#!/usr/bin/python3
+""" UTF-8 Validation """
+
+
+def validUTF8(data):
+>>>>>>> ca898ca4d7aa17e918c1b6e88105ef70713ab627
     """
     Method that determines if a given data set represents a valid
     UTF-8 encoding.
